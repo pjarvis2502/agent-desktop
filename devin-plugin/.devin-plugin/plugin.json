@@ -1,0 +1,7 @@
+{
+  "name": "agent-desktop",
+  "version": "1.0.0",
+  "description": "agent-desktop core and Linux skills, copied from skills/ by .github/workflows/sync-devin-plugin.yml",
+  "repository": "https://github.com/pjarvis2502/agent-desktop",
+  "license": "Apache-2.0"
+}
