@@ -1,11 +1,10 @@
 {
-  "name": "agent-desktop-marketplace",
-  "description": "Meta-plugin for this fork: offers the agent-desktop and agent-desktop-linux skills without loading every skill under skills/",
+  "name": "agent-desktop",
+  "description": "agent-desktop core and Linux skills, loaded straight from skills/ in this fork",
   "repository": "https://github.com/pjarvis2502/agent-desktop",
   "license": "Apache-2.0",
-  "skills": [],
-  "optionalPlugins": [
-    "./skills/agent-desktop",
-    "./skills/agent-desktop-linux"
+  "skills": [
+    "skills/agent-desktop",
+    "skills/agent-desktop-linux"
   ]
 }
