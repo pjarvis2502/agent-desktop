@@ -1,6 +1,5 @@
 {
   "name": "agent-desktop",
   "repository": "https://github.com/pjarvis2502/agent-desktop",
-  "license": "Apache-2.0",
-  "skills": ["."]
+  "license": "Apache-2.0"
 }
