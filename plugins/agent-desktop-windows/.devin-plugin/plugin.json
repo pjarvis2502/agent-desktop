@@ -1,0 +1,6 @@
+{
+  "name": "agent-desktop-windows",
+  "description": "agent-desktop-windows skill from skills/agent-desktop-windows",
+  "repository": "https://github.com/pjarvis2502/agent-desktop",
+  "license": "Apache-2.0"
+}

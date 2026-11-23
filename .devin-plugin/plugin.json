@@ -1,10 +1,16 @@
 {
   "name": "agent-desktop",
-  "description": "agent-desktop core and Linux skills, loaded straight from skills/ in this fork",
+  "description": "agent-desktop core and Linux skills; macOS, Windows, FFI and jev-desktop skills offered as optional plugins",
   "repository": "https://github.com/pjarvis2502/agent-desktop",
   "license": "Apache-2.0",
   "skills": [
     "skills/agent-desktop",
     "skills/agent-desktop-linux"
+  ],
+  "optionalPlugins": [
+    "./plugins/agent-desktop-macos",
+    "./plugins/agent-desktop-windows",
+    "./plugins/agent-desktop-ffi",
+    "./plugins/jev-desktop"
   ]
 }

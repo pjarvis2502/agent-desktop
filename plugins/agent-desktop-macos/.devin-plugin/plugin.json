@@ -1,0 +1,6 @@
+{
+  "name": "agent-desktop-macos",
+  "description": "agent-desktop-macos skill from skills/agent-desktop-macos",
+  "repository": "https://github.com/pjarvis2502/agent-desktop",
+  "license": "Apache-2.0"
+}

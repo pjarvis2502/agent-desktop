@@ -1,0 +1,6 @@
+{
+  "name": "agent-desktop-ffi",
+  "description": "agent-desktop-ffi skill from skills/agent-desktop-ffi",
+  "repository": "https://github.com/pjarvis2502/agent-desktop",
+  "license": "Apache-2.0"
+}
