@@ -1,0 +1,10 @@
+{
+  "name": "agent-desktop-marketplace",
+  "description": "Meta-plugin for this fork: offers the agent-desktop plugin in devin-plugin/ without loading every skill under skills/",
+  "repository": "https://github.com/pjarvis2502/agent-desktop",
+  "license": "Apache-2.0",
+  "skills": [],
+  "optionalPlugins": [
+    "./devin-plugin"
+  ]
+}
